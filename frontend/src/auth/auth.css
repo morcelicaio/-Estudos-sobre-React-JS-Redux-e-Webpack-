@@ -1,0 +1,17 @@
+/* definindo algumas melhorias para o css pois o css do admin-LTE não ficaria muito bom nesta aplicação. */
+
+.wrapper {
+    background-color: #fff!important; 
+}
+
+.login-box-body {
+    background-color: #eee;
+}
+
+.login-box button {
+    margin-left: 0px;
+}
+
+.login-box a:hover {
+    cursor: pointer;
+}

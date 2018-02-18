@@ -1,0 +1,19 @@
+/* Arquivo css q será personalizado por mim caso haja alguma coisa q necessite ser feita na mão  */
+
+/* Corrigindo a barra de rolagem extra do site */
+.main-footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+/* Corrigindo o css dos botões do form */
+button{
+    margin-left: 5px;
+}
+
+/* Deixando os botões mais no canto direito da página aproveitando mais o espaço do formulário. */
+
+.table-actions{
+    width: 150px;
+}
